@@ -19,7 +19,7 @@ Visit my Portfolio [Russell_Portfolio](https://russell.ruxzom.com)
 - ❓ Ask me about anything related to Flutter | Laravel | Nodejs stack and related technologies  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="left" width="50%">
 
 <div align="left">  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="75" /></a>  
@@ -106,11 +106,11 @@ Visit my Portfolio [Russell_Portfolio](https://russell.ruxzom.com)
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+ 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniroul&hide_border=true&layout=compact" align="left" />
 
-</td><td valign="top" width="50%">
+ 
 
 
 
