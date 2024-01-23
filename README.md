@@ -126,8 +126,4 @@ Visit my Portfolio [Russell_Portfolio](https://russell.ruxzom.com)
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ 
