@@ -19,19 +19,10 @@ Visit my Portfolio [Russell_Portfolio](https://russell.ruxzom.com)
 - ❓ Ask me about anything related to Flutter | Laravel | Nodejs stack and related technologies  
 
 
-</td><td valign="left" width="50%">
-
-  
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
  
 
 <br/>  
+ 
 
 
 ## Github Stats  
