@@ -10,7 +10,7 @@ Visit my Portfolio [Russell_Portfolio](https://russell.ruxzom.com)
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [RUXZOM](https://ruxzom.com) as Full Stack Software Developer.  
+- 🔭 I’m currently working on [RUXZOM](https://ruxzom.com) as Full Stack Software Engineer.  
   
 
 - 🌱 I’m currently learning  Web3 and AI  
